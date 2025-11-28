@@ -1,0 +1,5 @@
+{
+  "name": "DentAI - Cavity Detection System",
+  "description": "A medical-grade AI interface for detecting dental cavities from X-ray imagery using computer vision.",
+  "requestFramePermissions": []
+}
